@@ -12,3 +12,5 @@ This is a repository outlining how I setup a Kasm server, and why I set it up.
 </ul>
 
 <h2>Installing Kasm</h2>
+The first thing we want to do is cd (change directory) on our linux machines, we do that using the cd command followed by the directory we want to go to. In our case want to go to the temp directory and we will do this using cd /tmp.
+<img src="https://github.com/FrancoCarrera1/kasmsrv/blob/main/images/cdcmd.png" height="80%" width="80%" alt="osticket to root file"/>
