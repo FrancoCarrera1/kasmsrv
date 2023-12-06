@@ -1,6 +1,5 @@
 # Kasm Server
-This is a repository outlining how I setup a Kasm server, and why I set it up.
-
+Setup of Kasm server for launching containers for homelab purposes.
 ## Why Kasm?
 <br> For many of us IT professionals out there who are just starting to learn, Kasm was the most cost effective solution for me to be able to launch VM's at will for virtually free since it takes advantage of docker containers to do this. With this you can launch docker containers that can run any OS out there. I will mainly be using this to educate myself on Linux and Networking further.
 - [<b>All original Kasm documentation can be found here:](https://kasmweb.com/docs/latest/install/single_server_install.html)
